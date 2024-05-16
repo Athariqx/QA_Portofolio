@@ -1,0 +1,2 @@
+Location : \e2e\DemoWebShop_register.cy.js
+Name file : DemoWebShop_register.cy.js
